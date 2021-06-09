@@ -1,5 +1,5 @@
 using Qaintessent
-using Qaintellect
+include("/home/ga53vuw/Documents/PhD/projects/QAI/Qaintellect.jl/src/Qaintellect.jl")
 using LinearAlgebra
 using SparseArrays
 using Flux
